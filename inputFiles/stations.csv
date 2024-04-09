@@ -1,0 +1,23 @@
+src_city,dest_city,distance
+Westside,Dubay,100
+Westside,Mosbull,92
+Westside,Bugapest,55
+Mosbull,Berlint,64
+Berlint,Dubay,44
+Mosbull,Loondun,87
+Loondun,Bostin,43
+Loondun,Unstabul,120
+Chicargo,Unstabul,70
+Chicargo,Loondun,23
+Unstabul,Bugapest,61
+Takyo,Dome,57
+Dome,Los Angelos,88
+Cayro,Los Angelos,33
+Dubay,Los Angelos,57
+Mosbull,Bostin,63
+Dubay,Cayro,25
+Cayro,Dome,45
+Takyo,Cayro,27
+Cayro,Bugapest,30
+Bostin,Bugapest,16
+Takyo,Unstabul,42
